@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SearchMoviesApi</string>
+    <string name="more">menu</string>
+    <string name="rating">Sort By Rating</string>
+    <string name="popular">Sort By Popularity</string>
+    <string name="favorites">Show Favorites</string>
+    <string name="quit">Quit</string>
+</resources>
